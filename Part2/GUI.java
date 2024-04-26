@@ -25,8 +25,6 @@ class GUI extends JFrame implements ActionListener{
         this.distance = distance;
         this.horses = horses;
 
-        ImageIcon icon = new ImageIcon("Welcome.jpeg");
-
 
         label = new JLabel("Welcome to the horse race!", JLabel.CENTER);
         label.setBounds(10, 10, 200, 20);
