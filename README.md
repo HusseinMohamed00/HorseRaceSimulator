@@ -1,7 +1,7 @@
 # HorseRaceSimulator
-This horse race simulator uses different GUI's to allow any user to navigate and be as creative as they would like freely.
+This horse race simulator uses different GUI's to allow any users to navigate freely and be as creative as they would like.
 
-When the Main GUI i opened you will be greeted with a hello message, on this same GUI you will have 4 options, Distance, Start Race, View Stats and Add Horse.
+When the Main GUI opens you will be greeted with a hello message, on this same GUI you will have 4 options, Distance, Start Race, View Stats and Add Horse.
 
 Initially, if the Start Race button is clicked a message will be displayed letting you know that you haven't chosen a distance or added a horse.
 
