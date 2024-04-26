@@ -44,7 +44,7 @@ public class Race
      * then repeatedly moved forward until the 
      * race is finished
      */
-    public void startRace()
+    public void startRaceGUI()
     {
         //declare a local variable to tell us when the race is finished
         boolean finished = false;
