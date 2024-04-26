@@ -44,7 +44,7 @@ public class Race
      * then repeatedly moved forward until the 
      * race is finished
      */
-    public void startRace()
+    public void startRaceGUI()
     {
         //declare a local variable to tell us when the race is finished
         boolean finished = false;
@@ -130,11 +130,6 @@ public class Race
                     System.out.println("And the winner is " + h.getName());
                     System.exit(0);
                     
-
-                }
-                else if(allFallen){
-                    System.out.println("No winner");
-                    System.exit(0);
                 }
             }
 
