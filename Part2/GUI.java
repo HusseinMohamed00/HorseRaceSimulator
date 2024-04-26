@@ -116,7 +116,7 @@ class GUI extends JFrame implements ActionListener{
                     Race RaceObj = new Race(DistanceValue, this.horses);
     
                     dispose();
-                    RaceObj.startRace();
+                    RaceObj.startRaceGUI();
                     RaceBegin = true;
                 }
             }
